@@ -1,6 +1,6 @@
 package busResv;
 
-import java.util.Scanner; //nested package/ hierarchical package
+import java.util.Scanner;
 import java.util.ArrayList;
 
 public class BusDemo {
